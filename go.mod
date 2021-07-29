@@ -1,3 +1,4 @@
+module github.com/sureshhpe/hello-world
 go 1.15
 
 require (
