@@ -2,6 +2,9 @@
 version: 2.1
 jobs:
   build:
+    branches:
+      only:
+        - main
     working_directory: ~/repo
     docker:
       - image: circleci/golang:1.15.8
