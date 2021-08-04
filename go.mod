@@ -25,6 +25,11 @@ require (
 	github.com/google/go-github/v32 v32.1.0
 	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/terraform-json v0.11.0
+	github.com/hpe-hcss/hpecli v0.0.0-20210331155914-9042d01f5842
+	github.com/hpe-hcss/iam-lib v1.12.9
+	github.com/hpe-hcss/quake-client v1.2.0
+	github.com/hpe-hcss/scm-lib v0.2.9
+	github.com/hpe-hcss/sdb v0.0.0-20210701132236-5b4d157d9f27
 	github.com/likexian/gokit v0.24.4
 	github.com/moby/term v0.0.0-20201216013528-df9cb8a40635 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
